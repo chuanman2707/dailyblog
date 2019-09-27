@@ -5,8 +5,8 @@ image: /img/home-jumbotron.jpg
 heading: Cuộc sống muôn màu
 subheading: Bạn muốn nhìn màu gì thì ra màu đó, riêng tôi chỉ thấy màu của tiền
 mainpitch: “Người khôn ngoan luôn nghĩ về tiên ở trong đầu, không phải trong tim.” —Jonathan Swift
-  title: Tiền
-  description: >
+title: Tiền
+description: >
 Tôi xuất thân từ gia đình trung lưu, hồi nhỏ còn đi học, mỗi ngày tôi được mẹ cho
 2 ngàn để mua xôi, nhìn mấy đứa bạn được gia đình cho nhiều tiền hơn, rồi tôi phải
 đạp xe đạp đi mấy cây số đến trường, trong khi bạn bè cùng lứa được đưa đến trường
@@ -14,7 +14,7 @@ bằng xe máy, có đứa còn được ba nó chở bằng chiếc corolla m�
 Vậy là ngày đầu tiên tới trường, thay vì được học văn hóa, tôi học tính ganh tị đầu
 tiên.
 
-description: >-
+description: >
 Có người bảo tôi hồi đó tí tuổi làm sao mà biết ganh tị đua đòi là gì? Thì đúng là 
 chưa định nghĩa ra được những điều đó, nhưng chính những hình ảnh, những hành động
 năm xưa đã ăn vào tiềm thức, rồi khi nó đủ lớn thì tự khắc nhận ra thôi.
