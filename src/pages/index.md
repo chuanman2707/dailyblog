@@ -1,21 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Cuộc sống muôn màu
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
-mainpitch:
-  title: Why Kaldi
+heading: Cuộc sống muôn màu
+subheading: Bạn muốn nhìn màu gì thì ra màu đó, riêng tôi chỉ thấy màu của tiền
+mainpitch: “Người khôn ngoan luôn nghĩ về tiên ở trong đầu, không phải trong tim.” —Jonathan Swift
+  title: Tiền
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+Tôi xuất thân từ gia đình trung lưu, hồi nhỏ còn đi học, mỗi ngày tôi được mẹ cho
+2 ngàn để mua xôi, nhìn mấy đứa bạn được gia đình cho nhiều tiền hơn, rồi tôi phải
+đạp xe đạp đi mấy cây số đến trường, trong khi bạn bè cùng lứa được đưa đến trường
+bằng xe máy, có đứa còn được ba nó chở bằng chiếc corolla mới coóng đến trường...
+Vậy là ngày đầu tiên tới trường, thay vì được học văn hóa, tôi học tính ganh tị đầu
+tiên.
+
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+Có người bảo tôi hồi đó tí tuổi làm sao mà biết ganh tị đua đòi là gì? Thì đúng là 
+chưa định nghĩa ra được những điều đó, nhưng chính những hình ảnh, những hành động
+năm xưa đã ăn vào tiềm thức, rồi khi nó đủ lớn thì tự khắc nhận ra thôi.
 intro:
   blurbs:
     - image: /img/coffee.png
