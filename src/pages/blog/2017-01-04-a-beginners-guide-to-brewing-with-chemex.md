@@ -1,29 +1,31 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Cuộc sống ở Singapore
+date: 2019-09-28T03:04:10.000Z
+description: >-
+  Nhiều bậc cha mẹ cứ nghĩ rằng cố gắng dành dụm chắt chiu từng đồng cho con cái
+  để qua nước ngoài học thì sau này nó sẽ nên người, thành tài và trở về phục vụ
+  cho quê hương đất nước, hoặc không thì cũng sẽ làm rạng danh cả dòng họ.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/kevia-tan-0sxkbliaqkk-unsplash.jpg
 tags:
-  - brewing
-  - chemex
+  - du học
+  - singapore
+  - tự túc
+  - sinh viên
+  - cuộc sống
+  - tiền bạc
 ---
-![chemex](/img/chemex.jpg)
+![student](/img/lucas-law-pitoug-_vo0-unsplash.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+> "Giáo dục là thứ duy nhất còn sót lại khi mà bạn đã quên hết tất cả những gì đã học ở trường." Albert Einstein
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+## Cuộc sống ở bển
 
-## The little secrets of Chemex brewing
+Hồi tôi mới qua đó, lạ nước lạ cái, chỉ có người quen duy nhất là ông anh Sơn bạn của bà chị. Thôi thì anh em nương tựa nhau mà sống, không phải đó là đặc tính của người Việt mình sao ? Tôi được sắp xếp ở cái ghế sofa cũ ngoài phòng khách, đối với tôi mà nói như vậy là quá ổn, sinh viên mà.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Nhưng mà đời không như là mơ, được chưa tới một tuần thì mọi người trong nhà bàn bạc nhất trí tôi phải chuyển đi, hạn chót là 3 ngày. Tôi cũng chưa hiểu chuyện gì xảy ra hết, thế là cong đít đi tìm nhà, tôi lên các trang mạng rồi chạy đôn chạy đáo đi kiếm chỗ ở cho mình.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Chỗ đầu tiên là một căn nhà toàn các bạn sinh viên cỡ chạc tuổi tôi (18 - 20), nhưng mà lạ thay là nhà không có thấy quyển sách nào, chỉ toàn là laptop và các dàn desktop cấu hình cao phục vụ cho nhu cầu gaming 24/7 mà không bị ai quấy rầy. Nghĩ đi nghĩ lại đắn đo lắm, ở quê tôi từng là game thủ một thời trốn học cày võ lâm, giờ qua đây gặp đồng hương thế này thì sung sướng còn gì bằng. Tôi tính hôm đó xuống cọc luôn rồi đấy, nhưng nghĩ đi cũng phải nghĩ lại, hồi đó mình đánh game chưa đã hay sao, giờ lại qua đây đánh tiếp, đánh đấm thế này có khi bay mất tuổi trẻ luôn.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Tiếp tục leo lên MRT và qua căn thứ 2 để xem nhà, nhớ không nhầm thì căn này khá xa, ở ngay khu Bukit Panjang,
